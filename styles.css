@@ -1,0 +1,16 @@
+#banner {
+  color: white;
+  background-color: purple;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+  height: 100px;
+}
+
+#lowerBanner {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-evenly;
+  align-items: center;
+}
